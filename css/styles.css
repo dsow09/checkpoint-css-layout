@@ -269,9 +269,6 @@ figure{
 
 .footer .section__inner, .footer p{
     font-size: 11px;
-    color: #ababab
-}
-
-.footer p{
+    color: #ababab;
     margin-bottom: 15px;
 }
